@@ -1,0 +1,440 @@
+[
+    {
+      "id": 1,
+      "level": "6ème",
+      "question": "Choose the correct form: She ___ to school every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Présent simple (accord sujet-verbe, 3e personne singulier).",
+      "types_exercices_recommandes": "Phrases à trous, transformation affirmative/négative/interrogative."
+    },
+    {
+      "id": 2,
+      "level": "6ème",
+      "question": "Translate: 'Bonjour' in English is...",
+      "options": ["Goodbye", "Hello", "Please", "Thanks"],
+      "answer": "Hello",
+      "competence": "Vocabulaire",
+      "focus_principal": "Salutations et expressions de base.",
+      "types_exercices_recommandes": "Association image-mot, QCM de traduction simple."
+    },
+    {
+      "id": 3,
+      "level": "6ème",
+      "question": "Choose the correct article: ___ apple is red.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": "An",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Articles définis/indéfinis (usage de ‘a/an’).",
+      "types_exercices_recommandes": "Phrases à compléter, mise en contexte d’articles."
+    },
+    {
+      "id": 4,
+      "level": "6ème",
+      "question": "Find the opposite of 'cold'.",
+      "options": ["Hot", "Cool", "Warm", "Freeze"],
+      "answer": "Hot",
+      "competence": "Vocabulaire",
+      "focus_principal": "Antonymes (vocabulaire des sensations).",
+      "types_exercices_recommandes": "Matching, mots croisés thématiques."
+    },
+    {
+      "id": 5,
+      "level": "6ème",
+      "question": "Complete: My name ___ John.",
+      "options": ["are", "is", "am", "be"],
+      "answer": "is",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Verbe 'to be' au présent simple.",
+      "types_exercices_recommandes": "Phrases à trous, mini dialogues (présentation personnelle)."
+    },
+    {
+      "id": 6,
+      "level": "5ème",
+      "question": "Find the opposite of 'big'.",
+      "options": ["Large", "Huge", "Small", "Tall"],
+      "answer": "Small",
+      "competence": "Vocabulaire",
+      "focus_principal": "Antonymes (adjectifs de taille et de forme).",
+      "types_exercices_recommandes": "Matching, jeu de paires (big/small, tall/short)."
+    },
+    {
+      "id": 7,
+      "level": "5ème",
+      "question": "Choose the right verb: They ___ football every weekend.",
+      "options": ["play", "plays", "playing", "played"],
+      "answer": "play",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Présent simple pour les habitudes.",
+      "types_exercices_recommandes": "Phrases à trous, transformation de phrases selon le sujet."
+    },
+    {
+      "id": 8,
+      "level": "5ème",
+      "question": "What is the plural of 'child'?",
+      "options": ["childs", "children", "childes", "childrens"],
+      "answer": "children",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Pluriels irréguliers.",
+      "types_exercices_recommandes": "Jeux de cartes singulier/pluriel, QCM visuels."
+    },
+    {
+      "id": 9,
+      "level": "5ème",
+      "question": "Find the correct translation: 'Je n’aime pas le lait.'",
+      "options": [
+        "I not like milk.",
+        "I no like milk.",
+        "I don't like milk.",
+        "I doesn’t like milk."
+      ],
+      "answer": "I don't like milk.",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Forme négative au présent simple.",
+      "types_exercices_recommandes": "Réécriture affirmative → négative, mini-dialogues."
+    },
+    {
+      "id": 10,
+      "level": "5ème",
+      "question": "Choose the correct pronoun: ___ is my brother.",
+      "options": ["She", "He", "It", "You"],
+      "answer": "He",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Pronoms personnels sujets.",
+      "types_exercices_recommandes": "Matching image-pronom, phrases à compléter."
+    },
+    {
+      "id": 11,
+      "level": "4ème",
+      "question": "Complete: If it rains, we ___ at home.",
+      "options": ["stayed", "stay", "will stay", "stays"],
+      "answer": "will stay",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Conditionnel réel (If + Present, Will + Base Verb).",
+      "types_exercices_recommandes": "Cloze test, transformation conditionnelle."
+    },
+    {
+      "id": 12,
+      "level": "4ème",
+      "question": "Find the correct translation: 'Il est en train de lire un livre.'",
+      "options": [
+        "He is read a book.",
+        "He read a book.",
+        "He is reading a book.",
+        "He reads a book."
+      ],
+      "answer": "He is reading a book.",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Présent en -ing (present continuous).",
+      "types_exercices_recommandes": "Description d’images, phrases à compléter."
+    },
+    {
+      "id": 13,
+      "level": "4ème",
+      "question": "Choose the right preposition: She is good ___ English.",
+      "options": ["on", "in", "at", "to"],
+      "answer": "at",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Prépositions fixes avec adjectifs.",
+      "types_exercices_recommandes": "Association adjectif + préposition, phrases à trous."
+    },
+    {
+      "id": 14,
+      "level": "4ème",
+      "question": "Find the correct form: They ___ visited London last summer.",
+      "options": ["have", "has", "did", "was"],
+      "answer": "have",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Present perfect (have/has + participe passé).",
+      "types_exercices_recommandes": "Phrases à trous, transformation temps simple → perfect."
+    },
+    {
+      "id": 15,
+      "level": "4ème",
+      "question": "Choose the synonym of 'happy'.",
+      "options": ["sad", "angry", "glad", "hungry"],
+      "answer": "glad",
+      "competence": "Vocabulaire",
+      "focus_principal": "Synonymes simples (émotions).",
+      "types_exercices_recommandes": "Matching synonymes, jeu des émotions."
+    },
+    {
+      "id": 16,
+      "level": "3ème",
+      "question": "What is the past tense of 'eat'?",
+      "options": ["eated", "ate", "eaten", "eats"],
+      "answer": "ate",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Verbes irréguliers au prétérit.",
+      "types_exercices_recommandes": "Tableaux à compléter, memory game (base/past)."
+    },
+    {
+      "id": 17,
+      "level": "3ème",
+      "question": "Choose the right question: ___ you like pizza?",
+      "options": ["Does", "Do", "Did", "Doing"],
+      "answer": "Do",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Formation de la question au présent simple.",
+      "types_exercices_recommandes": "Réécriture en questions, jeu de rôle (Do you like… ?)."
+    },
+    
+    {
+      "id": 18,
+      "level": "3ème",
+      "question": "Find the correct sentence:",
+      "options": [
+        "He don't like pizza.",
+        "He doesn't likes pizza.",
+        "He doesn't like pizza.",
+        "He not like pizza."
+      ],
+      "answer": "He doesn't like pizza.",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Structure négative correcte avec auxiliaire 'do'.",
+      "types_exercices_recommandes": "Correction d’erreurs, QCM d’analyse grammaticale."
+    },
+    {
+      "id": 19,
+      "level": "3ème",
+      "question": "Choose the correct preposition: I was born ___ 2005.",
+      "options": ["in", "on", "at", "to"],
+      "answer": "in",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Prépositions de temps (in, on, at).",
+      "types_exercices_recommandes": "Cloze tests, mini calendrier à compléter."
+    },
+    {
+      "id": 20,
+      "level": "3ème",
+      "question": "Choose the correct expression: 'How ___ are you?'",
+      "options": ["old", "tall", "age", "years"],
+      "answer": "old",
+      "competence": "Vocabulaire",
+      "focus_principal": "Formules de base pour demander l’âge.",
+      "types_exercices_recommandes": "Jeux de questions-réponses, dialogues courts."
+    },
+    {
+      "id": 21,
+      "level": "2nde",
+      "question": "Choose the correct modal verb: You ___ study harder if you want to pass.",
+      "options": ["can", "should", "might", "mustn't"],
+      "answer": "should",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Modaux de conseil et d’obligation.",
+      "types_exercices_recommandes": "Cloze test, débat 'you should/shouldn’t'."
+    },
+    {
+      "id": 22,
+      "level": "2nde",
+      "question": "Find the correct tag question: You are French, ___?",
+      "options": ["isn't it", "aren't you", "don't you", "won't you"],
+      "answer": "aren't you",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Tag questions (confirmation).",
+      "types_exercices_recommandes": "Jeux de rôle, QCM de reformulation."
+    },
+    {
+      "id": 23,
+      "level": "2nde",
+      "question": "Choose the right option: She has lived in London ___ 2010.",
+      "options": ["for", "since", "during", "from"],
+      "answer": "since",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "For/Since avec present perfect.",
+      "types_exercices_recommandes": "Phrases à trous, mini dialogues temporels."
+    },
+    {
+      "id": 24,
+      "level": "2nde",
+      "question": "Choose the correct translation: 'Il faut que tu viennes.'",
+      "options": [
+        "You must come.",
+        "You have to come.",
+        "You should to come.",
+        "You have come."
+      ],
+      "answer": "You must come.",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Expression de l’obligation (must, have to).",
+      "types_exercices_recommandes": "Transformation de phrases, mini dialogues."
+    },
+    {
+      "id": 25,
+      "level": "2nde",
+      "question": "Find the synonym of 'begin'.",
+      "options": ["finish", "start", "stop", "close"],
+      "answer": "start",
+      "competence": "Vocabulaire",
+      "focus_principal": "Synonymes de verbes communs.",
+      "types_exercices_recommandes": "Matching synonymes, phrases à reformuler."
+    },
+    {
+      "id": 26,
+      "level": "1ère",
+      "question": "Choose the correct passive form: The cake ___ by my mother.",
+      "options": ["was made", "made", "is make", "makes"],
+      "answer": "was made",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Voix passive (construction BE + participe passé).",
+      "types_exercices_recommandes": "Transformation actif → passif, cloze test."
+    },
+    {
+        "id": 18,
+        "level": "1ère",
+        "categorie": "Grammaire/Voix passive",
+        "question": "Choose the correct passive form: The cake ___ by my mother.",
+        "options": ["was made", "made", "is make", "makes"],
+        "answer": "was made",
+        "competence": "Grammaire & Structure",
+        "focus_principal": "Voix passive (construction BE + participe passé).",
+        "types_exercices_recommandes": "Transformation actif → passif, cloze test."
+      },
+    {
+      "id": 27,
+      "level": "1ère",
+      "question": "Find the right conditional: If I had money, I ___ buy a car.",
+      "options": ["will", "would", "can", "am"],
+      "answer": "would",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Conditionnel irréel (If + past simple, would + base verb).",
+      "types_exercices_recommandes": "Jeux hypothétiques, transformation d’énoncés."
+    },
+    {
+      "id": 28,
+      "level": "1ère",
+      "question": "Choose the correct reported speech: He said he ___ tired.",
+      "options": ["is", "was", "were", "has been"],
+      "answer": "was",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Discours indirect (backshift des temps).",
+      "types_exercices_recommandes": "Réécriture directe → indirecte, cloze test."
+    },
+    {
+      "id": 29,
+      "level": "1ère",
+      "question": "Find the correct expression: 'I'm looking forward ___ you.'",
+      "options": ["see", "seeing", "to see", "for seeing"],
+      "answer": "to see",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Expressions figées avec préposition ('look forward to + V-ing').",
+      "types_exercices_recommandes": "Matching expression/sens, mini dialogues formels."
+    },
+    {
+      "id": 30,
+      "level": "1ère",
+      "question": "Choose the right tense: By next year, they ___ finished the project.",
+      "options": ["will have", "have", "had", "will"],
+      "answer": "will have",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Futur antérieur (will have + participe passé).",
+      "types_exercices_recommandes": "Cloze tests temporels, phrases à compléter."
+    },
+    {
+      "id": 31,
+      "level": "Terminale",
+      "question": "Choose the correct relative pronoun: The person ___ called you is my friend.",
+      "options": ["who", "which", "whom", "where"],
+      "answer": "who",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Pronoms relatifs (who, which, where, whom).",
+      "types_exercices_recommandes": "Phrases à relier, QCM de choix relatif."
+    },
+    {
+      "id": 32,
+      "level": "Terminale",
+      "question": "Find the correct form: If I ___ known, I would have helped you.",
+      "options": ["have", "has", "had", "having"],
+      "answer": "had",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Conditionnel passé (If + past perfect, would have + pp).",
+      "types_exercices_recommandes": "Transformation de phrases, scénario hypothétique."
+    },
+    {
+      "id": 33,
+      "level": "Terminale",
+      "question": "Identify the correct sentence:",
+      "options": [
+        "He suggested to go out.",
+        "He suggested going out.",
+        "He suggested go out.",
+        "He suggested that go out."
+      ],
+      "answer": "He suggested going out.",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Verbes suivis du gérondif (V + -ing).",
+      "types_exercices_recommandes": "Erreur à corriger, cloze test verbal."
+    },
+    {
+      "id": 34,
+      "level": "Terminale",
+      "question": "Choose the right expression: It’s high time you ___ to bed.",
+      "options": ["go", "went", "goes", "gone"],
+      "answer": "went",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Expression idiomatique avec temps décalé ('It’s time + past simple').",
+      "types_exercices_recommandes": "Réécriture, mini situations de langage idiomatique."
+    },
+    {
+      "id": 35,
+      "level": "Terminale",
+      "question": "Find the synonym of 'important'.",
+      "options": ["necessary", "useless", "funny", "tiny"],
+      "answer": "necessary",
+      "competence": "Vocabulaire",
+      "focus_principal": "Synonymes abstraits (valeur et importance).",
+      "types_exercices_recommandes": "Utilisation en contexte, cartes mentales lexicales."
+    },
+    {
+      "id": 36,
+      "level": "Terminale",
+      "question": "Choose the correct tense: She ___ English for ten years.",
+      "options": ["learned", "has learned", "learns", "was learning"],
+      "answer": "has learned",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Present perfect pour exprimer la durée.",
+      "types_exercices_recommandes": "Phrases à trous, repérage du temps approprié."
+    },
+    {
+      "id": 37,
+      "level": "Terminale",
+      "question": "Find the correct form: I wish I ___ taller.",
+      "options": ["am", "were", "was", "be"],
+      "answer": "were",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Subjonctif irréel ('wish + past simple').",
+      "types_exercices_recommandes": "Transformation, expression de souhaits irréels."
+    },
+    {
+      "id": 38,
+      "level": "Terminale",
+      "question": "Choose the correct word: The movie was ___ than I expected.",
+      "options": ["more good", "gooder", "better", "best"],
+      "answer": "better",
+      "competence": "Grammaire & Conjugaison",
+      "focus_principal": "Comparatifs d’adjectifs irréguliers.",
+      "types_exercices_recommandes": "QCM de comparaison, phrases à reformuler."
+    },
+    {
+      "id": 39,
+      "level": "Terminale",
+      "question": "Find the correct expression: He succeeded ___ passing the exam.",
+      "options": ["in", "on", "to", "for"],
+      "answer": "in",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Verbes à préposition fixe (succeed in, depend on…).",
+      "types_exercices_recommandes": "Matching verbe-préposition, phrases à trous."
+    },
+    {
+      "id": 40,
+      "level": "Terminale",
+      "question": "Choose the correct expression: No sooner ___ he arrived than it started raining.",
+      "options": ["did", "has", "had", "was"],
+      "answer": "had",
+      "competence": "Grammaire & Structure",
+      "focus_principal": "Inversion après adverbe négatif ('No sooner had...').",
+      "types_exercices_recommandes": "Réécriture, analyse de structure avancée."
+    }
+  ]
+  
