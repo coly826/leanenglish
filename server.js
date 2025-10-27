@@ -80,7 +80,7 @@ app.post("/login", (req, res) => {
     req.session.isAdmin = true;
     res.redirect("/admin");
   } else {
-    res.render("login", { error: "Identifiants incorrects !" });
+    res.render("login", { error: "Identifiants incorrects! Cette est accessible uniquement pour l'administrateur !" });
   }
 });
 
