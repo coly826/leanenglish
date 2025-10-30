@@ -176,6 +176,29 @@ app.get("/", (req, res) => {
   res.render("user", { contents: sharedContents });
 });
 
+app.post("/upload", requireAdmin, upload.single("contentFile"), (req, res) => {
+  const { contentType, contentTitle, skillType } = req.body;
+  const file = req.file;
+  if (!file || !contentTitle || !skillType)
+    return res.status(400).send("Tous les champs sont obligatoires.");
+
+  const contents = loadContents();
+  const newContent = {
+    id: Date.now(),
+    type: contentType,
+    skill: skillType, // 🆕 AJOUT : compétence (Reading, etc.)
+    title: contentTitle,
+    fileName: file.originalname,
+    filePath: "/uploads/" + file.filename,
+    shared: false,
+  };
+
+  contents.push(newContent);
+  saveContents(contents);
+  res.redirect("/admin");
+});
+
+
 // --- Lancer le serveur ---
 app.listen(PORT, () => {
   console.log(`🚀 Serveur lancé :
